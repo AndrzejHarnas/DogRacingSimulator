@@ -1,0 +1,10 @@
+C:\Users\Janek\source\repos\RuningDogs\RuningDogs\bin\Debug\RuningDogs.exe.config
+C:\Users\Janek\source\repos\RuningDogs\RuningDogs\bin\Debug\RuningDogs.exe
+C:\Users\Janek\source\repos\RuningDogs\RuningDogs\bin\Debug\RuningDogs.pdb
+C:\Users\Janek\source\repos\RuningDogs\RuningDogs\obj\Debug\RuningDogs.csprojResolveAssemblyReference.cache
+C:\Users\Janek\source\repos\RuningDogs\RuningDogs\obj\Debug\RuningDogs.Properties.Resources.resources
+C:\Users\Janek\source\repos\RuningDogs\RuningDogs\obj\Debug\RuningDogs.csproj.GenerateResource.cache
+C:\Users\Janek\source\repos\RuningDogs\RuningDogs\obj\Debug\RuningDogs.csproj.CoreCompileInputs.cache
+C:\Users\Janek\source\repos\RuningDogs\RuningDogs\obj\Debug\RuningDogs.exe
+C:\Users\Janek\source\repos\RuningDogs\RuningDogs\obj\Debug\RuningDogs.pdb
+C:\Users\Janek\source\repos\RuningDogs\RuningDogs\obj\Debug\RuningDogs.Main.resources
